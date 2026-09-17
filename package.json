@@ -1,0 +1,24 @@
+{
+  "name": "s6_laboratorio",
+  "version": "1.0.0",
+  "description": "Semana6 de Js Avanzado",
+  "main": "hola.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lyrum/S6_Laboratorio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Lyrum/S6_Laboratorio/issues"
+  },
+  "homepage": "https://github.com/Lyrum/S6_Laboratorio#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
